@@ -6,7 +6,7 @@ title:  Salutations
 # {{ page.title }}
 
 
-_Add your text here_
+_Italics_
 
 
 What's Markdown (`.md`)?
